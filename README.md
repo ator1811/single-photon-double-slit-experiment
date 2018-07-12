@@ -1,4 +1,4 @@
-# double-slit-experiment
+# single photon double-slit-experiment
 repository containing technical information (in progress)
 - parts list
 - arduino resources
