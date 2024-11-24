@@ -1,7 +1,4 @@
 # single photon double-slit-experiment
-repository containing technical information (in progress)
-- parts list
-- arduino resources
-- GUI resources
-- pcb
-- tst
+Dutch repository to use the Single photon double slit experiment of the University of Twente
+
+Next to software a number of articles are included to provide didactial approaches.
